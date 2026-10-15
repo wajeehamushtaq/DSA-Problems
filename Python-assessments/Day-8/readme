@@ -1,0 +1,8 @@
+Recursion Pattern
+Use Recursion when:
+- Problem can be broken into smaller same problem
+- Tree / Graph traversal
+- Backtracking (permutations, combinations, sudoku)
+- Divide & Conquer (merge sort, quick sort)
+- DFS
+- Mathematical recurrence
